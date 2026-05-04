@@ -24,6 +24,6 @@ You can install the lvllvl desktop app by just using the installer, lvllvl_setup
 
 You can also plug in all the files I uploaded on github (except the installer) into PHP Desktop and follow the tutorial listed above. I would recommend also downloading Xampp and having Apache and MySQL turned on. Xampp has php installed, which is needed to run the files through PHP Desktop. Xampp can be found here: https://www.apachefriends.org/ 
 
-But this isn’t necessary if you use the installer. With the installer, once the desktop app version is installed it is ready to use.
+But this isn’t necessary if you use the installer. With the installer, once the desktop app version is installed it is ready to use. The installer can be found in Releases as lvllvl Desktop 1.0 for Windows.
 
 I have very limited coding knowledge, and there are still other issues present (the app size is kinda large and I don’t know how to change the app icon from the default given by PHP Desktop). This is also my first desktop app that I’ve tried working on. I just wanted to help preserve what James worked on, however much I can. It is still a work in progress, but it would also be cool if anyone else wants to work on the desktop app version and improve the functionality. 
