@@ -6,7 +6,7 @@ His itch.io here: https://jaammees.itch.io/lvllvl
 
 I really like using lvllvl to create text mode art, but I don’t know how long the website will be up and wanted a desktop app version to be available. So I’ve made an app version, though it is still a work in progress. This version just works for Windows. 
 
-Lvllvl was made to work in a browser. This app version runs, but some features don’t work (I mostly just put all the lvllvl files from github into php desktop).
+Lvllvl was made to work in a browser. This app version runs, but some features don’t work (I mostly just put all the lvllvl files from Github into PHP Desktop).
 
 For this desktop app version, save file doesn’t work. Open local file also doesn’t work. Share project also doesn’t work. There are other features that also may not work.
 
