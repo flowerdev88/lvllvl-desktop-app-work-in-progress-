@@ -30,7 +30,7 @@
         "default_size": [800, 600]
     },
     "web_server": {
-        "listen_on": ["127.0.0.1", 0],
+        "listen_on": ["127.0.0.1", 54007],
         "www_directory": "www/lvllvl/dist",
         "index_files": ["index.html", "index.php"],
         "cgi_interpreter": "php/php-cgi.exe",
