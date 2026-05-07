@@ -1,4 +1,7 @@
 {
   "name": "lvllvl",
-  "main": "lvllvl/dist/index.html"
+  "main": "lvllvl/dist/index.html",
+  "window": {
+    "icon": "lvllvl/lvllvl_icon.png"
+  }
 }
