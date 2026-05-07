@@ -20,7 +20,9 @@ I switched over to using nw.js and the nw.js with Apache PHP mod.
 Nw.js found here: https://nwjs.io/ 
 Mod found here: https://github.com/Tommy0412/NW.js-with-Apache-PHP 
 
-You can install the lvllvl desktop app by just using the installer, lvllvl_setup, found in Releases as lvllvl Desktop 1.2 for Windows.
+For those who download the github page into a zip file, it has to be nested as lvllvl_app/lvllvl/src/(everything on github page) for it to work.
+
+You can also install the lvllvl desktop app by just using the installer, lvllvl_setup, found in Releases as lvllvl Desktop 1.2 for Windows.
 
 Download here: https://github.com/flowerdev88/lvllvl-desktop-app-work-in-progress-/releases/tag/v1.2.0 
 
