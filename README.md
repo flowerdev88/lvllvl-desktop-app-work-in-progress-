@@ -20,8 +20,8 @@ I switched over to using nw.js and the nw.js with Apache PHP mod.
 Nw.js found here: https://nwjs.io/ 
 Mod found here: https://github.com/Tommy0412/NW.js-with-Apache-PHP 
 
-You can install the lvllvl desktop app by using the installer, lvllvl_setup, found in Releases as lvllvl Desktop 1.3 for Windows.
+You can install the lvllvl desktop app by using the installer, lvllvl_setup, found in Releases as lvllvl Desktop 1.4 for Windows.
 
-Download here: https://github.com/flowerdev88/lvllvl-desktop-app-work-in-progress-/releases/tag/v1.3.0 
+Download here: https://github.com/flowerdev88/lvllvl-desktop-app-work-in-progress-/releases/tag/v1.4.0 
 
-I have very limited coding knowledge, and there are still other issues present (the app size is kinda large and I don’t know how to change the app icon from the default given by PHP Desktop). This is also my first desktop app that I’ve tried working on. I just wanted to help preserve what James worked on, however much I can. It is still a work in progress, but it would also be cool if anyone else wants to work on the desktop app version and improve the functionality. 
+I have very limited coding knowledge, and there are still other issues present. This is also my first desktop app that I’ve tried working on. I just wanted to help preserve what James worked on, however much I can. It is still a work in progress, but it would also be cool if anyone else wants to work on the desktop app version and improve the functionality. 
